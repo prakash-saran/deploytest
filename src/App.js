@@ -8,6 +8,7 @@ function App() {
         <h2>
           doing git push and deployment testing
         </h2>
+        <p>git push testing </p>
       </header>
     </div>
   );
